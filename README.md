@@ -13,7 +13,7 @@ I thrive on tackling challenges in **programming**, **web development**, and **a
 - **BSc (Hons) Computing Science in Software Engineering (Top-Up)**  
   *Kingston University (UK)*  
 - **HND in Computing (Software Engineering)**  
-  *London Metropolitan University (Pearson)*  
+  *London Metropolitan University (UK) (Pearson)*  
 - **Office Application Course**  
   *Ministry of Education*
 
