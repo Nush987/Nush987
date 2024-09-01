@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub, where curiosity meets creativity!
+Welcome to my GitHub, 
 
 I'm a tech enthusiast with a love for exploring new technologies and staying at the cutting edge of innovation. My journey often leads me into the intriguing worlds of **quantum science** and **gravity**, where I relish the challenge of unraveling complex concepts.
 
