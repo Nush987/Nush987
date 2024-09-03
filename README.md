@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! <img width="40" height="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 Welcome to my GitHub, 
 
